@@ -1,0 +1,14 @@
+F:\Shivangi\ReactDemos\Reactivities\Application\bin\Debug\netstandard2.0\Application.deps.json
+F:\Shivangi\ReactDemos\Reactivities\Application\bin\Debug\netstandard2.0\Application.dll
+F:\Shivangi\ReactDemos\Reactivities\Application\bin\Debug\netstandard2.0\Application.pdb
+F:\Shivangi\ReactDemos\Reactivities\Application\bin\Debug\netstandard2.0\Domain.dll
+F:\Shivangi\ReactDemos\Reactivities\Application\bin\Debug\netstandard2.0\Persistence.dll
+F:\Shivangi\ReactDemos\Reactivities\Application\bin\Debug\netstandard2.0\Domain.pdb
+F:\Shivangi\ReactDemos\Reactivities\Application\bin\Debug\netstandard2.0\Persistence.pdb
+F:\Shivangi\ReactDemos\Reactivities\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+F:\Shivangi\ReactDemos\Reactivities\Application\obj\Debug\netstandard2.0\Application.csproj.CoreCompileInputs.cache
+F:\Shivangi\ReactDemos\Reactivities\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+F:\Shivangi\ReactDemos\Reactivities\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+F:\Shivangi\ReactDemos\Reactivities\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+F:\Shivangi\ReactDemos\Reactivities\Application\obj\Debug\netstandard2.0\Application.dll
+F:\Shivangi\ReactDemos\Reactivities\Application\obj\Debug\netstandard2.0\Application.pdb

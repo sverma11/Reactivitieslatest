@@ -1,0 +1,9 @@
+F:\Shivangi\ReactDemos\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+F:\Shivangi\ReactDemos\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.dll
+F:\Shivangi\ReactDemos\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.pdb
+F:\Shivangi\ReactDemos\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+F:\Shivangi\ReactDemos\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+F:\Shivangi\ReactDemos\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+F:\Shivangi\ReactDemos\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+F:\Shivangi\ReactDemos\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.dll
+F:\Shivangi\ReactDemos\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.pdb
